@@ -35,7 +35,7 @@ a.active {
 }
 
 a {
-    color: #fed136;
+    color: #36BAFE;
 }
 
 a:hover,
@@ -61,7 +61,7 @@ h6 {
 }
 
 .bg-light-gray {
-    background-color: #f7f7f7;
+    background-color: #E8E8E8;
 }
 
 .bg-darkest-gray {
@@ -176,14 +176,14 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
-    color: #fed136;
+    color: #36BAFE;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #fec503;
+    color: #36BAFE;
 }
 
 .navbar-default .navbar-collapse {
@@ -215,7 +215,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #fed136;
+    color: #36BAFE;
 }
 
 .navbar-default .navbar-nav>.active>a {
@@ -652,7 +652,7 @@ aside.clients img {
 }
 
 section#contact {
-    /*background-color: #222;*/
+    background-color: white;
    /* background-image: url(../img/map-image.png);*/
     background-position: center;
     background-repeat: no-repeat;
