@@ -1,6 +1,7 @@
 .thoughts {
-	margin-bottom: 80px;
+	margin: 50px 0px;
 	text-align: center;
+	text-decoration: none;
 }
 
 .brainstation {
@@ -23,3 +24,11 @@
 	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-weight: 700;
 }
+
+.mycv {
+	text-align: center;
+	background-color: #222;
+	padding: 100px;
+	color: white;
+}
+
