@@ -5,15 +5,25 @@
 }
 
 .brainstation {
-	width: 300px;
+	width: 200px;
+	margin-bottom: 30px;
+
 }
 
 .heyText {
-	margin: 40px 100px;
+	margin: 40px 150px;
 }
 
 .whatImUp {
 	background-color: #EFEFEF;
+}
+
+.nowSection {
+	margin:70px 100px 0px 100px;
+}
+
+.nowSection .service-heading {
+	font-size: 2em;
 }
 
 .hey {
