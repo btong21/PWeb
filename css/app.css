@@ -1,49 +1,74 @@
 .thoughts {
-	margin: 50px 0px;
-	text-align: center;
-	text-decoration: none;
+    margin: 50px 0px;
+    text-align: center;
+    text-decoration: none;
 }
 
 .brainstation {
-	width: 200px;
-	margin-bottom: 30px;
-
+    width: 200px;
+    margin-bottom: 30px;
 }
 
 .heyText {
-	margin: 40px 150px;
+    margin: 40px 150px;
 }
 
 .whatImUp {
-	background-color: #EFEFEF;
+    background-color: #EFEFEF;
 }
 
 .nowSection {
-	margin:70px 100px 0px 100px;
+    margin: 70px 100px 0px 100px;
 }
 
 .nowSection .service-heading {
-	font-size: 2em;
+    font-size: 2em;
 }
 
 .hey {
-	background-color: white;
+    background-color: white;
 }
 
 .logo {
-	font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-	font-weight: 700;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 700;
 }
 
 .mycv {
-	text-align: center;
-	background-color: #222;
-	padding: 100px;
-	color: white;
+    text-align: center;
+    background-color: #222;
+    padding: 100px;
+    color: white;
 }
 
 .projectDes {
-	text-align: left;
-	margin: 90px 50px;
+    text-align: left;
+    margin: 90px 50px;
 }
+
+.downloadcv {
+    margin-bottom: 50px;
+    font-size: 1.5em;
+}
+
+section h2.section-heading {
+	margin-bottom: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
