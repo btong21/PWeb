@@ -10,7 +10,14 @@
 }
 
 .heyText {
-    margin: 40px 150px;
+   /* margin: 40px 150px;*/
+   display: inline-block;
+}
+
+.headshot {
+    width: 300px;
+    height: auto;
+    display: inline-block;
 }
 
 .whatImUp {
@@ -18,7 +25,7 @@
 }
 
 .nowSection {
-    margin: 70px 100px 0px 100px;
+    margin: 40px 100px 0px 100px;
 }
 
 .nowSection .service-heading {
