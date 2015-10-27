@@ -10,8 +10,7 @@
 }
 
 .heyText {
-   /* margin: 40px 150px;*/
-   display: inline-block;
+    margin-top: 40px;
 }
 
 .headshot {
@@ -59,23 +58,16 @@
 }
 
 section h2.section-heading {
-	margin-bottom: 40px;
+    margin-bottom: 40px;
 }
 
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover, 
+.nav>li>a:focus, .nav>li>a:hover{
+    background-color: #222;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*.navbar-default .nav li a:visited {
+    color: #fff;
+}*/
