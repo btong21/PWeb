@@ -68,6 +68,14 @@ section h2.section-heading {
     background-color: #222;
 }
 
-/*.navbar-default .nav li a:visited {
-    color: #fff;
-}*/
+.mycv h2, .mycv p {
+    color: white;
+}
+
+.mycv h2:hover, .mycv p:hover {
+    text-decoration: none;
+}
+
+
+
+
