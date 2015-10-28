@@ -76,6 +76,11 @@ section h2.section-heading {
     text-decoration: none;
 }
 
+.portfolio-modal {
+    max-width: 80%;
+    margin: auto;
+}
+
 
 
 
