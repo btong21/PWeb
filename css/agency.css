@@ -788,8 +788,9 @@ ul.social-buttons li a:active {
     font-size: 3em;
 }
 
-.portfolio-modal .modal-content p {
+.subtitle {
     margin-bottom: 30px;
+    margin-top: 30px;
 }
 
 .portfolio-modal .modal-content p.item-intro {
