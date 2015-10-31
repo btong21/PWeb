@@ -1,0 +1,1 @@
+// $('#portfolioModal1').modal({backdrop: 'static', keyboard: true})
