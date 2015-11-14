@@ -4,6 +4,10 @@
     text-decoration: none;
 }
 
+header .intro-text {
+    margin-bottom: 200px;
+}
+
 .brainstation {
     width: 200px;
     margin-bottom: 30px;
